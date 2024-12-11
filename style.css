@@ -1,0 +1,62 @@
+*{
+    font-family: "Tinos", serif;
+}
+header{
+    background-color: #732B1A;
+}
+.nav-item a{
+    color: #A64826;
+}
+#boton-perfil{
+    color: #F2D7B6;
+    background-color: #A64826;
+}
+.nav-item a:hover{
+    color: #F2D7B6;
+}
+#app{
+    color:#BF6C3B
+}
+.bi{
+    color: #F2D7B6;
+}
+.fs-4{
+    color: #F2D7B6;
+}
+.boton-cv{
+    color: #F2D7B6;
+    background-color: #732B1A;
+}
+.subtitulos{
+    color: #732B1A;
+}
+.btn-proyecto{
+    background-color: #F2D7B6;
+    
+}
+.btn-proyecto a{
+    background-color: #F2D7B6;
+    color: #732B1A;
+}
+.card .card-title{
+    color: #A64826;
+}
+#contacto{
+    color: #A64826;
+}
+
+.btn-invitame{
+    color: #F2D7B6;
+    background-color: #732B1A;
+}
+.pie-archivo{
+    background-color: #732B1A;
+
+}
+footer p{
+    color: #A64826;
+}
+footer p a{
+    background-color: #732B1A;
+    color: #F2D7B6;
+}
