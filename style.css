@@ -23,9 +23,11 @@ header{
 .fs-4{
     color: #F2D7B6;
 }
-.boton-cv{
+.boton-cv a{
     color: #F2D7B6;
     background-color: #732B1A;
+    border-radius: 5px;
+    padding: 10px;
 }
 .subtitulos{
     color: #732B1A;
